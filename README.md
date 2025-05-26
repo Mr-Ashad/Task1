@@ -3,7 +3,7 @@
 # Titanic Dataset – Data Cleaning and Preprocessing
 This notebook focuses on cleaning and preparing the Titanic dataset for further analysis. The key steps include:
 
-#### Performed Data VIsualization of null and non null values 
+- #### Performed Data VIsualization of null and non null values 
 
 #### Removed columns with excessive missing values (Cabin).
 
